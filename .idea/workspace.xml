@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef1229f9-7497-409a-ae12-a18d67dbb5b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iris.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kmeans.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="tky8kt9j" />
+  </component>
+  <component name="ProjectId" id="1k5eeBMZxvwClE3osL2uXDuWtDZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package kmeans --bin kmeans" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef1229f9-7497-409a-ae12-a18d67dbb5b3" name="Default Changelist" comment="" />
+      <created>1604994972231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604994972231</updated>
+      <workItem from="1604994973496" duration="7653000" />
+      <workItem from="1605083530850" duration="8903000" />
+      <workItem from="1605371875450" duration="1764000" />
+      <workItem from="1605457770934" duration="375000" />
+      <workItem from="1605528942094" duration="774000" />
+      <workItem from="1605647830642" duration="25000" />
+      <workItem from="1605647869139" duration="978000" />
+      <workItem from="1605807227495" duration="3045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1605372757325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="623" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1605372757325" />
+    <state x="830" y="292" key="#com.intellij.ide.util.MemberChooser/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@0.0.2048.1152" timestamp="1605100269526" />
+    <state width="2005" height="312" key="GridCell.Tab.0.bottom" timestamp="1605818432687">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605373620643" />
+    <state width="2005" height="312" key="GridCell.Tab.0.bottom/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@0.0.2048.1152" timestamp="1605818432687" />
+    <state width="1877" height="312" key="GridCell.Tab.0.bottom/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@2560.107.1920.1200" timestamp="1605818030560" />
+    <state width="2005" height="312" key="GridCell.Tab.0.center" timestamp="1605818432687">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605373620642" />
+    <state width="2005" height="312" key="GridCell.Tab.0.center/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@0.0.2048.1152" timestamp="1605818432687" />
+    <state width="1877" height="312" key="GridCell.Tab.0.center/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@2560.107.1920.1200" timestamp="1605818030560" />
+    <state width="2005" height="312" key="GridCell.Tab.0.left" timestamp="1605818432687">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605373620642" />
+    <state width="2005" height="312" key="GridCell.Tab.0.left/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@0.0.2048.1152" timestamp="1605818432687" />
+    <state width="1877" height="312" key="GridCell.Tab.0.left/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@2560.107.1920.1200" timestamp="1605818030560" />
+    <state width="2005" height="312" key="GridCell.Tab.0.right" timestamp="1605818432687">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605373620642" />
+    <state width="2005" height="312" key="GridCell.Tab.0.right/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@0.0.2048.1152" timestamp="1605818432687" />
+    <state width="1877" height="312" key="GridCell.Tab.0.right/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@2560.107.1920.1200" timestamp="1605818030560" />
+    <state width="2005" height="384" key="GridCell.Tab.1.bottom" timestamp="1605001384676">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="384" key="GridCell.Tab.1.bottom/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@0.0.2048.1152" timestamp="1605001384676" />
+    <state width="2005" height="384" key="GridCell.Tab.1.center" timestamp="1605001384676">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="384" key="GridCell.Tab.1.center/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@0.0.2048.1152" timestamp="1605001384676" />
+    <state width="2005" height="384" key="GridCell.Tab.1.left" timestamp="1605001384676">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="384" key="GridCell.Tab.1.left/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@0.0.2048.1152" timestamp="1605001384676" />
+    <state width="2005" height="384" key="GridCell.Tab.1.right" timestamp="1605001384676">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="384" key="GridCell.Tab.1.right/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@0.0.2048.1152" timestamp="1605001384676" />
+    <state x="928" y="259" key="SettingsEditor" timestamp="1605818078255">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="928" y="259" key="SettingsEditor/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@0.0.2048.1152" timestamp="1605818078255" />
+    <state x="3199" y="365" key="SettingsEditor/2560.107.1920.1200/0.0.2048.1152/-1440.285.1440.900@2560.107.1920.1200" timestamp="1605817101096" />
+  </component>
+</project>

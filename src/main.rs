@@ -5,6 +5,7 @@ use std::io::{self, BufRead};
 use std::path::Path;
 use crate::kmeans::point::Point;
 use crate::kmeans::kmeans;
+use std::time::{SystemTime};
 
 
 fn main() {
@@ -29,10 +30,12 @@ fn main() {
         }
     }
 
+    let before = SystemTime::now();
     let (iterations, current_centroids) = kmeans(points, 6);
+    let elapsed_time = before.elapsed().expect("Error measuring time");
 
     println!("\nFinal Centroids =: {:?}", current_centroids);
-    println!("Finished in {} iterations", iterations);
+    println!("\nFinished in {} iterations, that required {}s", iterations, elapsed_time.as_secs_f64());
 }
 
 fn read_lines<P>(filename: P) -> io::Result<io::Lines<io::BufReader<File>>> where P: AsRef<Path> {
